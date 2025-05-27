@@ -1,0 +1,26 @@
+accent: '#fc8eac'
+background: '#00002a'
+foreground: '#d0d0fa'
+background_image:
+  path: /home/ankit/Downloads/blur2.jpg
+  opacity: 30
+details: darker
+terminal_colors:
+  bright:
+    black: '#50507a'
+    blue: '#b0b0da'
+    cyan: '#f003ef'
+    green: '#20204a'
+    magenta: '#e0e0ff'
+    red: '#fc8d28'
+    white: '#f5f5ff'
+    yellow: '#30305a'
+  normal:
+    black: '#00002a'
+    blue: '#66a0ff'
+    cyan: '#0ef0f0'
+    green: '#59f176'
+    magenta: '#fa9eac'
+    red: '#ff4242'
+    white: '#d0d0fa'
+    yellow: '#f3e877'
