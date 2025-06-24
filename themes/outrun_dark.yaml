@@ -6,7 +6,7 @@ foreground: '#ffffff'
 
 background_image:
   path: /home/ankit/.local/share/warp-terminal/themes/abstract-dark-blurred-background-smooth-gradient-texture-color-shiny-bright-website-pattern-banner-h.jpg
-  opacity: 4
+  opacity: 2
 details: darker
 terminal_colors:
   bright:
